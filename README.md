@@ -1,6 +1,6 @@
  ✨ sao Marcos  ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for sao marcos related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -45,7 +45,8 @@ This is a web based application developed for health related telugu based websit
 ### Privacy policy -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![Screenshot (27)cut](https://user-images.githubusercontent.com/94551141/193088882-e39282cd-27ad-44fc-b24d-5a69ab7b9f4f.png)
+
 
 
 
