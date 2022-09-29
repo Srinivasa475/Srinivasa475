@@ -20,19 +20,21 @@ This is a web based application developed for health related telugu based websit
 ## Screenshots
 
  https://saomarcoslaboratorio.azurewebsites.net/br/p/274/resultados-de-exames.aspx?urlRetorno=http://186.249.7.220/web_laudos/login.asp
- ![Screenshot (19)](https://user-images.githubusercontent.com/94551141/193077424-b1644c6e-0f47-4b72-8703-bf4ea56e92b4.png)
+![Screenshot (22)cut](https://user-images.githubusercontent.com/94551141/193081555-93a64b17-c04c-490c-9931-9445b069aca5.png)
 
-![Uploading Screenshot (20).png…]
-(![Screenshot (20)](https://user-images.githubusercontent.com/94551141/193079614-457c953d-cb08-4400-b0e2-37875f88b5c7.png))
+
+![Screenshot (23)cut](https://user-images.githubusercontent.com/94551141/193081672-45f20d18-f3f5-4c9f-9d3b-baeffd85cf5a.png)
+
 
 
    
 
 ### About Us 
 
-![Uploading Screenshot (20).png…]
-(![Screenshot (20)](https://user-images.githubusercontent.com/94551141/193079614-457c953d-cb08-4400-b0e2-378
-![Screenshot (21)](https://user-images.githubusercontent.com/94551141/193080039-28ed75f3-55f5-4079-933d-193e19a55f74.png)
+![Screenshot (23)cut](https://user-images.githubusercontent.com/94551141/193081725-993c8ef9-912b-4cf2-b6af-94b106f9c8ab.png)
+![Screenshot (22)cut](https://user-images.githubusercontent.com/94551141/193081921-bb70dbf7-72d0-4818-8c77-6ef41f1c92ee.png)
+
+
 
 
 
