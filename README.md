@@ -23,7 +23,8 @@ This is a web based application developed for health related telugu based websit
 ![Screenshot (22)cut](https://user-images.githubusercontent.com/94551141/193081555-93a64b17-c04c-490c-9931-9445b069aca5.png)
 
 
-![Screenshot (23)cut](https://user-images.githubusercontent.com/94551141/193081672-45f20d18-f3f5-4c9f-9d3b-baeffd85cf5a.png)
+![Screenshot (25)cut](https://user-images.githubusercontent.com/94551141/193083821-582d4d40-7190-477f-84b6-b4feb9e505df.png)
+
 
 
 
@@ -33,6 +34,8 @@ This is a web based application developed for health related telugu based websit
 
 ![Screenshot (23)cut](https://user-images.githubusercontent.com/94551141/193081725-993c8ef9-912b-4cf2-b6af-94b106f9c8ab.png)
 ![Screenshot (22)cut](https://user-images.githubusercontent.com/94551141/193081921-bb70dbf7-72d0-4818-8c77-6ef41f1c92ee.png)
+![Screenshot (26)cut](https://user-images.githubusercontent.com/94551141/193083907-4effe546-8ed8-42e3-aebc-6c858d67aca6.png)
+
 
 
 
